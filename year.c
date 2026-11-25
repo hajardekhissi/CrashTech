@@ -2,6 +2,8 @@
 #include <string.h>
 #include "year.h"
 
-void year_data(
+void init_tab(Annee *tab){
+  for (int i=0;i<20;i++){
+      tab[i].accident
 
 
